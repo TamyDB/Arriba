@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# env
+.env
+
+# logs
+logs/
+*.logs
+pnpm-debug.log
+
+# build files
+dist/
